@@ -8,8 +8,7 @@
 </head>
 
 <body class="background full-height bg-black w-100">
-    <section id="home" class="video-hero"
-        style="height: 700px; background-image: url(/res/img/1-blur.png);  background-size:cover; background-attachment:fixed;">
+    <section id="home" class="video-hero" style="height: 700px; background-image: url(/res/img/1-blur.png);  background-size:cover; background-position: center center;background-attachment:fixed;" data-section="home">
         <div class="display-t text-center">
             <div class="display-tc">
                 <div class="container">
