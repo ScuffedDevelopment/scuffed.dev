@@ -1,4 +1,4 @@
-# Scuffed_Web_Nginx
+# scuffed.dev source
 The https://scuffed.dev/ Source.
 
 ## Requires:
