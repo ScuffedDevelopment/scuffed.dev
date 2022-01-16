@@ -1,0 +1,29 @@
+.gradient-rainbow {
+    background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, rgb(0,255,0) 14.28%, rgb(0,255,255) 21.4%, cyan 28.56%, blue 35.7%, magenta 42.84%, red 50%);
+    background-size: 600vw 600vw;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    animation: slide 10s linear infinite forwards;
+}
+.gradient-purple {
+    background: repeating-linear-gradient(45deg, #7995e0, #904e95, #7995e0, #b377e0);
+    background-size: 600vw 600vw;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    animation: slide 5s ease-in-out infinite forwards;
+}
+.gradient-green {
+    background: repeating-linear-gradient(45deg, #a5ff70, #97ff59, #6fe02b, #d5ff91);
+    background-size: 600vw 600vw;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    animation: slide 5s ease-in-out infinite forwards;
+}
+@keyframes slide {
+    0% {
+        background-position-x: 0%;
+    }
+    100% {
+        background-position-x: 600vw;
+    }
+}
