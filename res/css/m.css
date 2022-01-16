@@ -35,12 +35,39 @@
         max-width: 50%;
     }
 }
-@media (max-width:768px) {
+
+@media (max-width:768.98px) {
+    .gamebox {
+        -ms-flex: 0 0 50%;
+        flex:0 0 50%;
+        max-width: 70%;
+    }
+}
+
+
+.morebutton {
+    color: #FFFFFF !important; 
+    width: 33%; 
+    font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+@media (max-width: 845px) {
+    .morebutton {
+        width: 90%;
+    }
+}
+
+@media (max-width:553px) {
     .gamebox {
         -ms-flex: 0 0 50%;
         flex:0 0 100%;
         max-width: 100%;
     }
 }
+
 
 

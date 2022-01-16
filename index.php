@@ -47,7 +47,7 @@
             <div class="col rounded container pt-2 bg-black2 ml-5 box-container-shadow">
                 <h3 style="color:white">Community Based Development Team.</h3>
                 <p>Scuffed Development is one of the only few Community Development Teams out there that has multiple
-                    games Publish to multiple different Platforms and Stores! The Scuffed Dev Team consists of 30+
+                    games Publish to multiple different Platforms and Stores! The Scuffed Development Team consists of 30+
                     Members and more soon. </p>
             </div>
         </div>
