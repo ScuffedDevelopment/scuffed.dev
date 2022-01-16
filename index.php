@@ -16,7 +16,7 @@
                     <div class="col-md-12 col-md-offset-0">
                         <div class="animate-box">
                             <img src="/res/img/Scuffedv2-Non-Clear.png" alt="logo" class="fade-in"
-                                style="width: 512px;">
+                                style="width: 50%;">
                         </div>
                     </div>
                 </div>
