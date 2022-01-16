@@ -1340,8 +1340,7 @@ input[type="text"] {
   border-radius: 30px;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
-  transition: 0.5s;
-  padding: 8px 20px; }
+  transition: 0.5s;}
   .btn.btn-md {
     padding: 8px 20px !important; }
   .btn.btn-lg {

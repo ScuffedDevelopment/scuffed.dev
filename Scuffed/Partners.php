@@ -29,7 +29,7 @@
                             <div class="bg-black2 box-container-shadow mt-4 pb-2" style="height: 150px">
                                 <h3 style="padding-top:10px"><a href="' . $metadata["website"] . '"></h3>
                                 <h3 style="text-align:center;">' . $metadata['name'] . '</a></h3>
-                                <a href="' . $metadata["website"] . '" class="btn rred center" style="width:50%">Website</a>
+                                <a href="' . $metadata["website"] . '" class="btn rblue center" style="width:50%">Website</a>
                             </div>
                         </div>';
 				echo ($html);
