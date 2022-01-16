@@ -490,3 +490,20 @@ Weird Bug Fixes
 .txc {
     text-align: center;
 }
+
+.scuffedlogoindex {
+    width: 50%;
+}
+
+
+@media (max-width:727.98px) {
+    .scuffedlogoindex {
+        width: 100%;
+    }
+}
+
+@media (min-width:1237.98px) {
+    .scuffedlogoindex {
+        width: 50%;
+    }
+}
