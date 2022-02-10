@@ -36,6 +36,9 @@
 				if (isset($metadata['Mobile'])) {
 					$html = $html .  '<a href="' . $metadata["Mobile"] . '/" class="btn rgreen gameboxbutton" style="width:29%;text-align:center">Mobile</a>';
 				}
+				if (isset($metadata['PlayWebGL'])) {
+					$html = $html .  '<a href="' . $metadata["PlayWebGL"] . '/" class="btn rorange gameboxbutton" style="width:29%;text-align:center">Play on Web</a>';
+				}
 				$html = $html . '
 								</div>
                             </div>
