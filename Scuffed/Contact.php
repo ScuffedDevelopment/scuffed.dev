@@ -8,9 +8,10 @@
 
 	<body class="background full-height bg-black w-100">
         <br>
-        <h1 class="cwhite"style="text-align: center">Contact Us!</h1>
+        <h1 class="cwhite txc">Contact Us!</h1>
 
-        <h3 class="cwhite"style="text-align: center">scuffed@scuffed.dev</h1>
+        <h3 class="cwhite txc">scuffed@scuffed.dev</h1>
+		<h3 class="cwhite txc"><a href="https://scuffed.dev/invite">Official Discord!</a>
         <?php include($root."/res/includes/unfinished.php"); ?>
 
 	</body>
