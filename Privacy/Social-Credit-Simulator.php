@@ -15,7 +15,7 @@
             <li>The Service: Social Credit Simulator</li>
         </ul>
         <h4 style="color:white">Agreements</h4>
-        <p style="color:white">No Data is collected.</p>
+        <p style="color:white">An identifer will be created and used to access scuffedAPI (Application Programming Interface),<br> No other data is collected</p>
     </div>
 </body>
 <br>
