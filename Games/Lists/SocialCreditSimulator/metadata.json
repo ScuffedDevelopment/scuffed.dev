@@ -2,5 +2,6 @@
     "name": "Social Credit Simulator",
     "itch": "https://scuffeddevelopment.itch.io/social-credit-simulator",
     "Mobile": "/Games/Mobile/SocialCreditSimulator/",
-    "PlayWebGL": "https://offs.ca/GA/SocialCredit/"
+    "PlayWebGL": "https://offs.ca/GA/SocialCredit/",
+    "image":"image.jpg"
 }

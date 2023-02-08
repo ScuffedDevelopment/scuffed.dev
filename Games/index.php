@@ -27,7 +27,7 @@
 				$html = '
                         <div class="col-lg-4 fade-in gamebox ">
                             <div class="bg-black2 box-container-shadow mt-4 pb-2 gamebox2">
-                                <img src="/Games/Lists/' . $metadata["id"] . '/image.jpg" style="width: 100%"></img>
+                                <img src="/Games/Lists/' . $metadata["id"] . '/'.$metadata["image"].'" style="width: 100%"></img>
                                 <h3 style="text-align:center;"><a href="' . $metadata['id'] .'">' . $metadata['name'] . '</a></h3>
 								<div class="row" style="width:90%;margin-left:5%;margin-right:5%; position: absolute; bottom:0; ">
                                 	<a href="' . $metadata["id"] . '/" class="btn rred gameboxbutton" style="width:90%;">Info</a>';
